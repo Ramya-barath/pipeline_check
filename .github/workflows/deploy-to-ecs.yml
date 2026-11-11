@@ -13,7 +13,7 @@ permissions:
 env:
   AWS_REGION: ap-south-1
   ECR_REPOSITORY: badminton-angular
-  ECS_SERVICE: badminton-service
+  ECS_SERVICE: badminton-service1
   ECS_CLUSTER: badminton-cluster
   ECS_TASK_DEFINITION: ecs-task-definition.json
   CONTAINER_NAME: badminton-web
