@@ -38,6 +38,8 @@ jobs:
             console.log('OIDC audience:', payload.aud);
             console.log('OIDC subject:', payload.sub);
             console.log('OIDC issuer:', payload.iss);
+
+      - name: Configure AWS credentials using GitHub OIDC
         uses: aws-actions/configure-aws-credentials@v4
         with:
           role-to-assume: ${{ secrets.AWS_DEPLOY_ROLE_ARN }}
