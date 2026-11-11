@@ -39,7 +39,7 @@ import { Component } from '@angular/core';
       </section>
 
       <section class="section programs" id="programs">
-        <div class="section-heading"><div><p class="eyebrow">WHAT WE OFFER / 01</p><h2>Make room<br>for <em>more.</em></h2></div><p>Whether you're picking up a racket for the first time or chasing your next tournament win, there's a place for you here.</p></div>
+        <div class="section-heading"><div><p class="eyebrow">WHAT WE OFFER / 01</p><h2>Make room<br>for <em>more.</em></h2></div><p>If you are dare to win we should also dare to lose</p></div>
         <div class="program-grid">
           <article class="program-card beginner"><span class="card-number">01 / LEARN</span><div><h3>Start<br>strong.</h3><p>Beginner coaching and friendly sessions to build confidence.</p><a href="#join">Explore beginners ↗</a></div></article>
           <article class="program-card training"><span class="card-number">02 / IMPROVE</span><div><h3>Train<br>smarter.</h3><p>Focused drills, footwork and one-to-one coaching.</p><a href="#join">View training ↗</a></div></article>
