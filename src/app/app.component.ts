@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
     <header class="topbar">
       <a class="brand" href="#"><span class="brand-mark">R</span> RALLYPOINT</a>
       <nav><a href="#programs">Programs</a><a href="#courts">Our courts</a><a href="#join">Membership</a></nav>
-      <a class="nav-cta" href="#join">Book a court <span>↗</span></a>
+      <a class="nav-cta" href="#join">Book your space <span>↗</span></a>
     </header>
 
     <main>
