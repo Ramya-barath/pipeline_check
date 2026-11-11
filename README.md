@@ -162,3 +162,4 @@ Watch the run under GitHub → Actions. When it succeeds, ECS will be running th
 - `CannotPullContainerError`: check task execution role, ECR repository region, and task subnet internet/NAT connectivity or ECR VPC endpoints.
 - Tasks fail health checks: check container name, port 80, `/health`, task security group and target group health-check path.
 - Service does not update: confirm the workflow deployed a new task-definition revision and inspect ECS service events.
+- Automated deployment using GitHub Actions and AWS ECS.
